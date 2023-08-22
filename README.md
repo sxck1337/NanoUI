@@ -1,4 +1,4 @@
-# NanoUI JavaScript Canvas Library
+# NanoUI JavaScript Canvas Library (w.i.p)
 
 NanoUI is a lightweight JavaScript canvas library that aims to provide a user interface toolkit similar to ImGui. This project is currently a work in progress and is being developed as a side project.
 
